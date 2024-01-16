@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1584013876 source:d:\work\blog\mini project c\mini-project-in-c\quiz\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+	<dos.h>
+
+1585345205 source:d:\04 work\blog\mini project c\mini-project-in-c\quiz\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1584611041 d:\04 work\blog\mini project c\mini-project-in-c\quiz\gotoxy.h
+	<windows.h>
+

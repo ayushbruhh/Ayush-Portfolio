@@ -1,0 +1,63 @@
+html, body {
+  height: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lora:700|Raleway:300,400,700,800,900');
+
+h1 {
+  font-family: 'Lora', serif;
+}
+
+p, a {
+  font-family: 'Raleway', sans-serif;
+}
+
+.main-content {
+  height: 100%;
+  background-image: url("http://wallpapercave.com/wp/EQp0D7Q.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+h1 {
+  padding-top: 250px;
+  color: #fff;
+  letter-spacing: 2px;
+}
+
+.main-content > .bat-quote {
+  color: #f4f4f4;
+  letter-spacing: 1px;
+  font-size: 18px;
+}
+
+.bat-desc {
+  padding: 60px 0;
+}
+
+.bat-desc > p {
+  text-align: justify;
+}
+
+.bat-desc > p > span {
+  font-weight:700;
+}
+
+.bat-footer {
+  height: 50px;
+  background-color: #000;
+}
+
+.bat-footer > a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  padding-top: 15px;
+  font-weight: 300;
+  font-size: 14px
+}
+
+.bat-footer > a:hover { 
+  color: yellow;
+}
